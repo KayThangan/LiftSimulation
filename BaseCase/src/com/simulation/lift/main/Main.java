@@ -3,7 +3,6 @@ package com.simulation.lift.main;
 import javax.swing.*;
 
 public class Main {
-
     public static void main(String[] args) {
         JFrame jf = new JFrame();
         jf.add(new Menu());
